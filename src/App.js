@@ -1,10 +1,11 @@
+import LoginPage from "./Pages/LoginPage";
 
 
-function App() {
+const  App =() => {
   return (
-    <div >
-     Started
-    </div>
+    < >
+     <LoginPage/>
+    </>
   );
 }
 
